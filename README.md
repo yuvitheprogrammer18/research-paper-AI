@@ -77,9 +77,9 @@ It helps students generate research topics, find academic references, analyze re
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/ResearchPaper-AI-Studio.git
+git clone https://github.com/yuvitheprogrammer18/ResearchPaper-AI.git
 
-cd ResearchPaper-AI-Studio
+cd ResearchPaper-AI
 
 pip install -r requirements.txt
 
@@ -98,4 +98,4 @@ GEMINI_API_KEY=YOUR_API_KEY
 
 Yuvraj
 BCA Student
-Aspiring Data Scientist
+
