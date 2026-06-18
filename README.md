@@ -1,4 +1,3 @@
-# research-paper-AI
 # 🔬 ResearchPaper AI Studio
 
 ResearchPaper AI Studio is an AI-powered academic research assistant built with Streamlit and Gemini AI.
@@ -78,18 +77,25 @@ It helps students generate research topics, find academic references, analyze re
 ## Installation
 
 ```bash
-git clone https://github.com/yuvitheprogrammer18/ResearchPaper-AI.git
+git clone https://github.com/yourusername/ResearchPaper-AI-Studio.git
 
-cd ResearchPaper-AI
+cd ResearchPaper-AI-Studio
 
 pip install -r requirements.txt
 
 streamlit run app.py
+```
 
+## Environment Variables
+
+Create a `.env` file:
+
+```env
 GEMINI_API_KEY=YOUR_API_KEY
-
+```
 
 ## Author
 
 Yuvraj
-TYBCA Student
+BCA Student
+Aspiring Data Scientist
