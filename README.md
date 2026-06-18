@@ -85,15 +85,8 @@ cd ResearchPaper-AI
 pip install -r requirements.txt
 
 streamlit run app.py
-```
 
-## Environment Variables
-
-Create a `.env` file:
-
-```env
 GEMINI_API_KEY=YOUR_API_KEY
-```
 
 
 ## Author
